@@ -11,7 +11,6 @@ This project contains a Java Swing application that takes a photo name from the 
 ## Technologies Used
 
 - Java Swing
-- React
 
 ## How to Run
 
